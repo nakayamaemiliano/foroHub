@@ -36,7 +36,7 @@ El objetivo es replicar el backend de un foro: gestión de **tópicos**, con per
 - Actualizar tópico
 - Eliminar tópico
 
-### Extras para destacar (si están habilitados en tu proyecto)
+### Extras para destacar 
 - CRUD de **Cursos**
 - CRUD de **Usuarios** (solo ADMIN)
 
