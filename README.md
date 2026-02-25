@@ -60,7 +60,7 @@ El objetivo es replicar el backend de un foro: gestión de **tópicos**, con per
 ---
 
 ## Requisitos
-- Java (la versión que use tu `pom.xml`)
+- Java (17+)
 - Maven
 - MySQL + phpMyAdmin (XAMPP)
 - (Opcional) Git
@@ -71,6 +71,6 @@ El objetivo es replicar el backend de un foro: gestión de **tópicos**, con per
 
 ### 1) Base de datos (MySQL/XAMPP)
 1. Iniciar MySQL desde XAMPP.
-2. Crear la base (si aplica):
+2. Crear la base :
    ```sql
    CREATE DATABASE forohub;
